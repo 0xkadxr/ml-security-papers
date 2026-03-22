@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/ml-security-papers/actions/workflows/ci.yml/badge.svg)
+
 <p align="center">
   <h1 align="center">ML Security & AI Red-Teaming Papers</h1>
 </p>
